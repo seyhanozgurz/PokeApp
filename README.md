@@ -1,17 +1,27 @@
-PokeApp
+# PokeApp 
+
 PokeApp is a mobile application built with React Native, using the PokeAPI to display Pokémon. Users can swipe through different Pokémon, view details, and manage their favorite Pokémon.
 
-Features:
-Pokémon Gallery: Browse and swipe through Pokémon images and names.
-Pokémon Details: View detailed information about each Pokémon upon selection.
-Favorite Pokémon: Save and display Pokémon based on the order they were added to the favorites list.
-Responsive Design: Ensures a consistent look across different screen sizes.
+# Features:
 
-Technologies Used:
+**Pokémon Gallery:** Browse and swipe through Pokémon images and names.
+
+**Pokémon Details:** View detailed information about each Pokémon upon selection.
+
+**Favorite Pokémon:** Save and display Pokémon based on the order they were added to the favorites list.
+
+**Responsive Design:** Ensures a consistent look across different screen sizes.
+
+# Technologies Used:
+
 React Native CLI
+
 Redux (for state management)
+
 PokeAPI
+
 Detox and Jest (for testing)
+
 Json Server (for local backend service)
 
 ![image](https://github.com/user-attachments/assets/4d8b4594-ab55-46d3-8362-a1dad9860e78)
