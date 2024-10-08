@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": "0",
+      "email": "ozgur",
+      "password": "123456",
+      "loginExpireTime": "",
+      "favoriteIdList": [
+        "8",
+        "10",
+        "11",
+        "6"
+      ]
+    },
+    {
+      "id": "1",
+      "email": "seyhan@test.com",
+      "password": "123456",
+      "loginExpireTime": "",
+      "favoriteIdList": [
+        "4",
+        "6",
+        "11",
+        "10",
+        "1"
+      ]
+    }
+  ]
+}
